@@ -16,6 +16,7 @@ namespace cwiczenia8_mp_s23525b
 {
     public class Startup
     {
+        
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
